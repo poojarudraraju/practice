@@ -1,5 +1,8 @@
 #!/bin/bash
 
+##
+## READ a number from cli/user/file and find if it is ODD or EVEN
+##
 a=$1
 if [ -z $a ]
 then
